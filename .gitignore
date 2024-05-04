@@ -1,0 +1,10 @@
+Debug/
+Inc/
+Startup/
+
+.cproject
+.mxproject
+.project
+
+Assignment2.cfg
+Assignment2.launch
